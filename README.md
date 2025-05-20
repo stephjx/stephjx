@@ -2,10 +2,10 @@
 
 I'm an aspiring IT student who enjoys creating websites and systems that would be useful in real life.
 
-## 💻 Currently Learning
+## Currently Learning
 - HTML, CSS, JavaScript, PHP
 - Deployment (GitHub Pages)
 
-## 📈 GitHub Stats
+## GitHub Stats
 ![Steph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=stephjx&show_icons=true&theme=tokyonight)
 

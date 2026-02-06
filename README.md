@@ -4,7 +4,7 @@ I'm an **aspiring IT student** dedicated to building practical, real-world syste
 
 ---
 
-### 🛠️ My Toolbox
+### My Toolbox
 
 | Category | Skills |
 | :--- | :--- |
@@ -14,14 +14,14 @@ I'm an **aspiring IT student** dedicated to building practical, real-world syste
 
 ---
 
-### 🚀 What I'm Up To
-* 🌱 **Currently Learning:** Advanced PHP patterns and modern CSS layouts.
-* 🔭 **Current Goal:** Deploying my first full-stack CRUD application.
-* ⚡ **Design Philosophy:** I'm a big fan of **Responsive Design**—making sure systems look great on any screen size.
+### What I'm Up To
+* **Currently Learning:** Advanced PHP patterns and modern CSS layouts.
+* **Current Goal:** Deploying my first full-stack CRUD application.
+* **Design Philosophy:** I'm a big fan of **Responsive Design**—making sure systems look great on any screen size.
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=stephjx&show_icons=true&theme=tokyonight" alt="Steph's GitHub Stats" />
@@ -31,7 +31,7 @@ I'm an **aspiring IT student** dedicated to building practical, real-world syste
 
 ---
 
-### 📫 Connect with me
+### Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-link-here)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](your-link-here)
 

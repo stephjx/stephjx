@@ -24,9 +24,9 @@ I'm an **aspiring IT student** dedicated to building practical, real-world syste
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=stephjx&show_icons=true&theme=tokyonight" alt="Steph's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=stephjx&show_icons=true&theme=tokyonight" alt="Steph's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephjx&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=stephjx&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
